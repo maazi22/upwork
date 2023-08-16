@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'maaz';
+    src: url(./font/Poppins-Regular.ttf);
+}
+
+.mmm li{
+display: inline-block;
+margin: 10px;
+text-transform: capitalize;
+}
+
+.mmm{
+    border-bottom: solid 2px gray;
+    font-family: 'maaz';
+}
+.mmm img{
+    position: relative;
+    bottom: -5px;
+}
+.mmm input{
+    width: 300px;
+    height: 35px;
+    border-radius: 50px;
+    border: solid 2px gray;
+font-size: 18px;
+padding: 6px;
+font-family: 'maaz';
+position: relative;
+left: 380px;
+}
+.log{
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    font-family: "maaz";
+    position: relative;
+    left: 400px;
+    text-transform: capitalize;
+
+}
+.up{
+    position: relative;
+    left: 420px;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+    background-color:green ;
+    color: white;
+    border-radius: 20px;
+}
+a:hover{
+    color: black;
+    transition:ease 0s;
+text-decoration: underline;
+    
+}
+.aaa{
+ text-decoration: none;
+ color: black;
+ margin: 8px;
+text-transform: capitalize;
+ font-family: "maaz";
+ font-size: 13px;
+}
+.maaz{
+    position: relative;
+    left: 820px;
+    width: 650px;
+    bottom: 320px;
+}
+.how{
+font-size: 80px;
+position: relative;
+left: 100px;
+top: 8px;
+color: green;
+font-family: "maaz";
+font-weight: 90px; 
+}
+.old{
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+    font-size:25px ;
+    font-weight: -10px;
+    color: rgb(52, 51, 51);
+    font-family: "maaz";
+}
+.get{
+    border: none;
+    position: absolute;
+    bottom: 150px;
+    left: 100px;
+    font-family: "maaz";
+    font-size: 20px;
+    font-weight: 10px;
+    border-radius: 25px;
+    height: 40px;
+    width: 140px;
+    background-color: green;
+    color: white;
+}
+.zzz{
+    position: absolute;
+    left: 50px;
+bottom: 0px;
+width: 400px;
+}
+.mahaz3{
+    position: relative;
+    left: 100px;
+    bottom: 190px;
+    width: 1300px;
+}
+.browse{
+    position: relative;
+    left: 100px;
+    bottom: 190px;
+    font-size: 50px;
+}
+.looking{
+    position: relative;
+    left: 100px;
+    font-family: "maaz";
+    font-size: 18px;
+    bottom: 230px;
+    color: rgb(51, 61, 51);
+}
+.jobs{
+    position: relative;
+    left: 260px;
+    bottom: 272px;
+    font-size: 19px;
+    color: rgb(1, 105, 1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
